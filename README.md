@@ -14,8 +14,6 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Mit_Beladiya" alt="LeetCode Stats">
   <br/>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MIT_BELADIYA" alt="Codeforces Stats">
-  <br/>
 </div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
